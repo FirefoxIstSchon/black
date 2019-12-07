@@ -1,0 +1,10 @@
+JarIndex-Version: 1.0
+
+GLPKSolverPack.jar
+lib
+org
+org/gnu
+org/gnu/glpk
+scpsolver
+scpsolver/lpsolver
+
